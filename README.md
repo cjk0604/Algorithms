@@ -10,3 +10,8 @@
 
 ### Depth First Search (DFS)
 ### Brute Force
+
+
+## Day 3
+
+### Bubble Sort
