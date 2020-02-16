@@ -9,3 +9,4 @@
 ## Day 2
 
 ### Depth First Search (DFS)
+### Brute Force
