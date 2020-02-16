@@ -15,3 +15,4 @@
 ## Day 3
 
 ### Bubble Sort
+### Selection Sort
