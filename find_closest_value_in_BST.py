@@ -1,5 +1,4 @@
 def findClosestValueInBst(tree, target):
-    # Write your code here.
 	return findClosestValueInBstHelper(tree, target, float("inf"))
 
 
