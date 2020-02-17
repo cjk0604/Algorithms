@@ -21,3 +21,4 @@
 ## Day 4
 
 ### Branch Sum
+### Insertion Sort
