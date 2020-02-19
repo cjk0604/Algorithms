@@ -29,3 +29,5 @@
 ### Palindrome
 ### Selection Sort
 ### Quick Sort
+### Merge Sort
+## Binary Search
