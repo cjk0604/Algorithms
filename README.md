@@ -30,4 +30,8 @@
 ### Selection Sort
 ### Quick Sort
 ### Merge Sort
-## Binary Search
+### Binary Search
+
+## Day 6
+
+### Product Sum
