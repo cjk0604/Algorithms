@@ -9,5 +9,6 @@ def insertionSort(data):
     return data
 
 
-data = [8,7,5,3,6,1,9]
+
+data=[3,1,2]
 print(insertionSort(data))
